@@ -1,0 +1,17 @@
+[
+  {
+    "cliente": "Maria",
+    "lanche": "X-salada",
+    "id": "1792628965461"
+  },
+  {
+    "cliente": "Pedro",
+    "lanche": "X-Salada",
+    "id": "1792629099479"
+  },
+  {
+    "cliente": "João",
+    "lanche": "Hot Dog",
+    "id": "1792629133077"
+  }
+]
